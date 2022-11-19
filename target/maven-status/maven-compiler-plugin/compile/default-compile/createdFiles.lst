@@ -1,5 +1,0 @@
-ru\netology\ProductManager\domain\Product.class
-ru\netology\ProductManager\repository\ProductRepository.class
-ru\netology\ProductManager\domain\Book.class
-ru\netology\ProductManager\domain\Smartphone.class
-ru\netology\ProductManager\repository\ProductManager.class
